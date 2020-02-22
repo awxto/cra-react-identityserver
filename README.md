@@ -1,3 +1,7 @@
+## This project was created from this repo [ThunderDev1/react-ts-identityserver](https://github.com/ThunderDev1/reactjs-ts-identityserver/)
+
+The purpose of this project is to swap out ts/ejected webpack and use latest Create React App(cra) with es6 to handle authentication
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
